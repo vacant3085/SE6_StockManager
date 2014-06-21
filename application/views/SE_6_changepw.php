@@ -16,7 +16,7 @@
 
 		<!-- logo图片 -->
     		<div class="well" style="max-width: 300px; margin: 0 auto 10px;">
-    			<img src="/img/logo.jpg" class="img-rounded">
+    			<img src="/img/cplogo.jpg" class="img-rounded">
    		</div>
 
 		<!-- 获取用户名和密码的form -->
